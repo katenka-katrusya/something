@@ -1,0 +1,15 @@
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex014_square\obj\Debug\net6.0\Ex014_square.csproj.AssemblyReference.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex014_square\obj\Debug\net6.0\Ex014_square.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex014_square\obj\Debug\net6.0\Ex014_square.AssemblyInfoInputs.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex014_square\obj\Debug\net6.0\Ex014_square.AssemblyInfo.cs
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex014_square\obj\Debug\net6.0\Ex014_square.csproj.CoreCompileInputs.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex014_square\bin\Debug\net6.0\Ex014_square.exe
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex014_square\bin\Debug\net6.0\Ex014_square.deps.json
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex014_square\bin\Debug\net6.0\Ex014_square.runtimeconfig.json
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex014_square\bin\Debug\net6.0\Ex014_square.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex014_square\bin\Debug\net6.0\Ex014_square.pdb
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex014_square\obj\Debug\net6.0\Ex014_square.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex014_square\obj\Debug\net6.0\refint\Ex014_square.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex014_square\obj\Debug\net6.0\Ex014_square.pdb
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex014_square\obj\Debug\net6.0\Ex014_square.genruntimeconfig.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex014_square\obj\Debug\net6.0\ref\Ex014_square.dll
