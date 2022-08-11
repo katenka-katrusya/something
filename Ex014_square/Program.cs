@@ -4,8 +4,10 @@ Console.WriteLine("Введите первое число: ");
 int numA = int.Parse(Console.ReadLine());
 Console.WriteLine("Введите второе число: ");
 int numB = int.Parse(Console.ReadLine());
+
 int sqr1 = numA * numA;
 int sqr2 = numB * numB;
+
 if ((sqr1 == numB) || (sqr2 == numA)) 
 {
     Console.WriteLine("Да");
