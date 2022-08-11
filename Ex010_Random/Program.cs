@@ -8,7 +8,7 @@ int a1 = number % 10;
 int a2 = number / 10;
 
 int max = a1;
-if (a1 > a2) 
+if (a2 > max) 
 {
     max = a2;
 }
