@@ -1,0 +1,15 @@
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex012_multiplicity\bin\Debug\net6.0\Ex012_multiplicity.exe
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex012_multiplicity\bin\Debug\net6.0\Ex012_multiplicity.deps.json
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex012_multiplicity\bin\Debug\net6.0\Ex012_multiplicity.runtimeconfig.json
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex012_multiplicity\bin\Debug\net6.0\Ex012_multiplicity.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex012_multiplicity\bin\Debug\net6.0\Ex012_multiplicity.pdb
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex012_multiplicity\obj\Debug\net6.0\Ex012_multiplicity.csproj.AssemblyReference.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex012_multiplicity\obj\Debug\net6.0\Ex012_multiplicity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex012_multiplicity\obj\Debug\net6.0\Ex012_multiplicity.AssemblyInfoInputs.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex012_multiplicity\obj\Debug\net6.0\Ex012_multiplicity.AssemblyInfo.cs
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex012_multiplicity\obj\Debug\net6.0\Ex012_multiplicity.csproj.CoreCompileInputs.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex012_multiplicity\obj\Debug\net6.0\Ex012_multiplicity.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex012_multiplicity\obj\Debug\net6.0\refint\Ex012_multiplicity.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex012_multiplicity\obj\Debug\net6.0\Ex012_multiplicity.pdb
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex012_multiplicity\obj\Debug\net6.0\Ex012_multiplicity.genruntimeconfig.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex012_multiplicity\obj\Debug\net6.0\ref\Ex012_multiplicity.dll
