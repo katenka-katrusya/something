@@ -1,0 +1,15 @@
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex010_Random\bin\Debug\net6.0\Ex010_Random.exe
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex010_Random\bin\Debug\net6.0\Ex010_Random.deps.json
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex010_Random\bin\Debug\net6.0\Ex010_Random.runtimeconfig.json
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex010_Random\bin\Debug\net6.0\Ex010_Random.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex010_Random\bin\Debug\net6.0\Ex010_Random.pdb
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex010_Random\obj\Debug\net6.0\Ex010_Random.csproj.AssemblyReference.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex010_Random\obj\Debug\net6.0\Ex010_Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex010_Random\obj\Debug\net6.0\Ex010_Random.AssemblyInfoInputs.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex010_Random\obj\Debug\net6.0\Ex010_Random.AssemblyInfo.cs
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex010_Random\obj\Debug\net6.0\Ex010_Random.csproj.CoreCompileInputs.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex010_Random\obj\Debug\net6.0\Ex010_Random.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex010_Random\obj\Debug\net6.0\refint\Ex010_Random.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex010_Random\obj\Debug\net6.0\Ex010_Random.pdb
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex010_Random\obj\Debug\net6.0\Ex010_Random.genruntimeconfig.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex010_Random\obj\Debug\net6.0\ref\Ex010_Random.dll
