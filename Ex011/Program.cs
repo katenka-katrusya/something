@@ -4,5 +4,5 @@ int a = num / 100;        // 564 / 100 = 5
 int b = num % 10;         // 564 % 10 = 4 - (остаток последняя цифра)
 int result = a * 10 + b;
 
-Console.WriteLine($"Случайное число = {num}");
-Console.Write($"Результат = {result}");
+Console.WriteLine($"{result} - результат случайного числа {num}");
+//Console.Write($"Результат = {result}");
