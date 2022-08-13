@@ -1,0 +1,15 @@
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex016_coord2\bin\Debug\net6.0\Ex016_coord2.exe
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex016_coord2\bin\Debug\net6.0\Ex016_coord2.deps.json
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex016_coord2\bin\Debug\net6.0\Ex016_coord2.runtimeconfig.json
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex016_coord2\bin\Debug\net6.0\Ex016_coord2.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex016_coord2\bin\Debug\net6.0\Ex016_coord2.pdb
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex016_coord2\obj\Debug\net6.0\Ex016_coord2.csproj.AssemblyReference.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex016_coord2\obj\Debug\net6.0\Ex016_coord2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex016_coord2\obj\Debug\net6.0\Ex016_coord2.AssemblyInfoInputs.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex016_coord2\obj\Debug\net6.0\Ex016_coord2.AssemblyInfo.cs
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex016_coord2\obj\Debug\net6.0\Ex016_coord2.csproj.CoreCompileInputs.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex016_coord2\obj\Debug\net6.0\Ex016_coord2.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex016_coord2\obj\Debug\net6.0\refint\Ex016_coord2.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex016_coord2\obj\Debug\net6.0\Ex016_coord2.pdb
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex016_coord2\obj\Debug\net6.0\Ex016_coord2.genruntimeconfig.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex016_coord2\obj\Debug\net6.0\ref\Ex016_coord2.dll
