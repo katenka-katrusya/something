@@ -1,0 +1,15 @@
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex018_N\bin\Debug\net6.0\Ex018_N.exe
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex018_N\bin\Debug\net6.0\Ex018_N.deps.json
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex018_N\bin\Debug\net6.0\Ex018_N.runtimeconfig.json
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex018_N\bin\Debug\net6.0\Ex018_N.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex018_N\bin\Debug\net6.0\Ex018_N.pdb
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex018_N\obj\Debug\net6.0\Ex018_N.csproj.AssemblyReference.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex018_N\obj\Debug\net6.0\Ex018_N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex018_N\obj\Debug\net6.0\Ex018_N.AssemblyInfoInputs.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex018_N\obj\Debug\net6.0\Ex018_N.AssemblyInfo.cs
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex018_N\obj\Debug\net6.0\Ex018_N.csproj.CoreCompileInputs.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex018_N\obj\Debug\net6.0\Ex018_N.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex018_N\obj\Debug\net6.0\refint\Ex018_N.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex018_N\obj\Debug\net6.0\Ex018_N.pdb
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex018_N\obj\Debug\net6.0\Ex018_N.genruntimeconfig.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex018_N\obj\Debug\net6.0\ref\Ex018_N.dll
