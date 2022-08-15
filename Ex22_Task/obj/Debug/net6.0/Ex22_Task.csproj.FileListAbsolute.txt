@@ -1,0 +1,15 @@
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex22_Task\bin\Debug\net6.0\Ex22_Task.exe
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex22_Task\bin\Debug\net6.0\Ex22_Task.deps.json
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex22_Task\bin\Debug\net6.0\Ex22_Task.runtimeconfig.json
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex22_Task\bin\Debug\net6.0\Ex22_Task.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex22_Task\bin\Debug\net6.0\Ex22_Task.pdb
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex22_Task\obj\Debug\net6.0\Ex22_Task.csproj.AssemblyReference.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex22_Task\obj\Debug\net6.0\Ex22_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex22_Task\obj\Debug\net6.0\Ex22_Task.AssemblyInfoInputs.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex22_Task\obj\Debug\net6.0\Ex22_Task.AssemblyInfo.cs
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex22_Task\obj\Debug\net6.0\Ex22_Task.csproj.CoreCompileInputs.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex22_Task\obj\Debug\net6.0\Ex22_Task.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex22_Task\obj\Debug\net6.0\refint\Ex22_Task.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex22_Task\obj\Debug\net6.0\Ex22_Task.pdb
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex22_Task\obj\Debug\net6.0\Ex22_Task.genruntimeconfig.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex22_Task\obj\Debug\net6.0\ref\Ex22_Task.dll
