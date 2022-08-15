@@ -1,0 +1,15 @@
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex020_for\obj\Debug\net6.0\Ex020_for.csproj.AssemblyReference.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex020_for\obj\Debug\net6.0\Ex020_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex020_for\obj\Debug\net6.0\Ex020_for.AssemblyInfoInputs.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex020_for\obj\Debug\net6.0\Ex020_for.AssemblyInfo.cs
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex020_for\obj\Debug\net6.0\Ex020_for.csproj.CoreCompileInputs.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex020_for\bin\Debug\net6.0\Ex020_for.exe
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex020_for\bin\Debug\net6.0\Ex020_for.deps.json
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex020_for\bin\Debug\net6.0\Ex020_for.runtimeconfig.json
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex020_for\bin\Debug\net6.0\Ex020_for.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex020_for\bin\Debug\net6.0\Ex020_for.pdb
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex020_for\obj\Debug\net6.0\Ex020_for.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex020_for\obj\Debug\net6.0\refint\Ex020_for.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex020_for\obj\Debug\net6.0\Ex020_for.pdb
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex020_for\obj\Debug\net6.0\Ex020_for.genruntimeconfig.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex020_for\obj\Debug\net6.0\ref\Ex020_for.dll
