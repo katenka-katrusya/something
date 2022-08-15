@@ -1,0 +1,15 @@
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex21_for2\obj\Debug\net6.0\Ex21_for2.csproj.AssemblyReference.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex21_for2\obj\Debug\net6.0\Ex21_for2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex21_for2\obj\Debug\net6.0\Ex21_for2.AssemblyInfoInputs.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex21_for2\obj\Debug\net6.0\Ex21_for2.AssemblyInfo.cs
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex21_for2\obj\Debug\net6.0\Ex21_for2.csproj.CoreCompileInputs.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex21_for2\bin\Debug\net6.0\Ex21_for2.exe
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex21_for2\bin\Debug\net6.0\Ex21_for2.deps.json
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex21_for2\bin\Debug\net6.0\Ex21_for2.runtimeconfig.json
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex21_for2\bin\Debug\net6.0\Ex21_for2.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex21_for2\bin\Debug\net6.0\Ex21_for2.pdb
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex21_for2\obj\Debug\net6.0\Ex21_for2.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex21_for2\obj\Debug\net6.0\refint\Ex21_for2.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex21_for2\obj\Debug\net6.0\Ex21_for2.pdb
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex21_for2\obj\Debug\net6.0\Ex21_for2.genruntimeconfig.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex21_for2\obj\Debug\net6.0\ref\Ex21_for2.dll
