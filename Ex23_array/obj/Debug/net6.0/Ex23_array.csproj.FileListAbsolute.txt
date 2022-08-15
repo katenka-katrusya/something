@@ -1,0 +1,15 @@
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex23_array\obj\Debug\net6.0\Ex23_array.csproj.AssemblyReference.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex23_array\obj\Debug\net6.0\Ex23_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex23_array\obj\Debug\net6.0\Ex23_array.AssemblyInfoInputs.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex23_array\obj\Debug\net6.0\Ex23_array.AssemblyInfo.cs
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex23_array\obj\Debug\net6.0\Ex23_array.csproj.CoreCompileInputs.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex23_array\bin\Debug\net6.0\Ex23_array.exe
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex23_array\bin\Debug\net6.0\Ex23_array.deps.json
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex23_array\bin\Debug\net6.0\Ex23_array.runtimeconfig.json
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex23_array\bin\Debug\net6.0\Ex23_array.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex23_array\bin\Debug\net6.0\Ex23_array.pdb
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex23_array\obj\Debug\net6.0\Ex23_array.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex23_array\obj\Debug\net6.0\refint\Ex23_array.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex23_array\obj\Debug\net6.0\Ex23_array.pdb
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex23_array\obj\Debug\net6.0\Ex23_array.genruntimeconfig.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex23_array\obj\Debug\net6.0\ref\Ex23_array.dll
