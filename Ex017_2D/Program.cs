@@ -9,5 +9,5 @@ int x2 = int.Parse(Console.ReadLine());
 Console.Write("y2 = ");
 int y2 = int.Parse(Console.ReadLine());
 
-double s = Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 -y1, 2));
+double s = Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2));
 Console.WriteLine($"Расстояние между двумя точками = {s}");

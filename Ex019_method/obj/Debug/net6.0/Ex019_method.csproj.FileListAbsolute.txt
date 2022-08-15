@@ -1,0 +1,15 @@
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex019_method\bin\Debug\net6.0\Ex019_method.exe
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex019_method\bin\Debug\net6.0\Ex019_method.deps.json
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex019_method\bin\Debug\net6.0\Ex019_method.runtimeconfig.json
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex019_method\bin\Debug\net6.0\Ex019_method.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex019_method\bin\Debug\net6.0\Ex019_method.pdb
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex019_method\obj\Debug\net6.0\Ex019_method.csproj.AssemblyReference.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex019_method\obj\Debug\net6.0\Ex019_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex019_method\obj\Debug\net6.0\Ex019_method.AssemblyInfoInputs.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex019_method\obj\Debug\net6.0\Ex019_method.AssemblyInfo.cs
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex019_method\obj\Debug\net6.0\Ex019_method.csproj.CoreCompileInputs.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex019_method\obj\Debug\net6.0\Ex019_method.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex019_method\obj\Debug\net6.0\refint\Ex019_method.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex019_method\obj\Debug\net6.0\Ex019_method.pdb
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex019_method\obj\Debug\net6.0\Ex019_method.genruntimeconfig.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex019_method\obj\Debug\net6.0\ref\Ex019_method.dll
