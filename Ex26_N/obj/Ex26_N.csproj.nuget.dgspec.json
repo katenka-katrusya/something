@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\not-a\\OneDrive\\Рабочий стол\\GB\\Seminars\\something\\new\\new.csproj": {}
+    "C:\\Users\\not-a\\OneDrive\\Рабочий стол\\GB\\Seminars\\something\\Ex26_N\\Ex26_N.csproj": {}
   },
   "projects": {
-    "C:\\Users\\not-a\\OneDrive\\Рабочий стол\\GB\\Seminars\\something\\new\\new.csproj": {
+    "C:\\Users\\not-a\\OneDrive\\Рабочий стол\\GB\\Seminars\\something\\Ex26_N\\Ex26_N.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\not-a\\OneDrive\\Рабочий стол\\GB\\Seminars\\something\\new\\new.csproj",
-        "projectName": "new",
-        "projectPath": "C:\\Users\\not-a\\OneDrive\\Рабочий стол\\GB\\Seminars\\something\\new\\new.csproj",
+        "projectUniqueName": "C:\\Users\\not-a\\OneDrive\\Рабочий стол\\GB\\Seminars\\something\\Ex26_N\\Ex26_N.csproj",
+        "projectName": "Ex26_N",
+        "projectPath": "C:\\Users\\not-a\\OneDrive\\Рабочий стол\\GB\\Seminars\\something\\Ex26_N\\Ex26_N.csproj",
         "packagesPath": "C:\\Users\\not-a\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\not-a\\OneDrive\\Рабочий стол\\GB\\Seminars\\something\\new\\obj\\",
+        "outputPath": "C:\\Users\\not-a\\OneDrive\\Рабочий стол\\GB\\Seminars\\something\\Ex26_N\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\not-a\\AppData\\Roaming\\NuGet\\NuGet.Config"
