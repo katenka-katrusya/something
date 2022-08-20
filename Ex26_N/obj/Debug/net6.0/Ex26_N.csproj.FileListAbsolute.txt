@@ -1,0 +1,15 @@
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex26_N\bin\Debug\net6.0\Ex26_N.exe
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex26_N\bin\Debug\net6.0\Ex26_N.deps.json
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex26_N\bin\Debug\net6.0\Ex26_N.runtimeconfig.json
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex26_N\bin\Debug\net6.0\Ex26_N.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex26_N\bin\Debug\net6.0\Ex26_N.pdb
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex26_N\obj\Debug\net6.0\Ex26_N.csproj.AssemblyReference.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex26_N\obj\Debug\net6.0\Ex26_N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex26_N\obj\Debug\net6.0\Ex26_N.AssemblyInfoInputs.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex26_N\obj\Debug\net6.0\Ex26_N.AssemblyInfo.cs
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex26_N\obj\Debug\net6.0\Ex26_N.csproj.CoreCompileInputs.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex26_N\obj\Debug\net6.0\Ex26_N.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex26_N\obj\Debug\net6.0\refint\Ex26_N.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex26_N\obj\Debug\net6.0\Ex26_N.pdb
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex26_N\obj\Debug\net6.0\Ex26_N.genruntimeconfig.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex26_N\obj\Debug\net6.0\ref\Ex26_N.dll

@@ -1,0 +1,15 @@
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex25_amount\bin\Debug\net6.0\Ex25_amount.exe
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex25_amount\bin\Debug\net6.0\Ex25_amount.deps.json
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex25_amount\bin\Debug\net6.0\Ex25_amount.runtimeconfig.json
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex25_amount\bin\Debug\net6.0\Ex25_amount.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex25_amount\bin\Debug\net6.0\Ex25_amount.pdb
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex25_amount\obj\Debug\net6.0\Ex25_amount.csproj.AssemblyReference.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex25_amount\obj\Debug\net6.0\Ex25_amount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex25_amount\obj\Debug\net6.0\Ex25_amount.AssemblyInfoInputs.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex25_amount\obj\Debug\net6.0\Ex25_amount.AssemblyInfo.cs
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex25_amount\obj\Debug\net6.0\Ex25_amount.csproj.CoreCompileInputs.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex25_amount\obj\Debug\net6.0\Ex25_amount.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex25_amount\obj\Debug\net6.0\refint\Ex25_amount.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex25_amount\obj\Debug\net6.0\Ex25_amount.pdb
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex25_amount\obj\Debug\net6.0\Ex25_amount.genruntimeconfig.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex25_amount\obj\Debug\net6.0\ref\Ex25_amount.dll

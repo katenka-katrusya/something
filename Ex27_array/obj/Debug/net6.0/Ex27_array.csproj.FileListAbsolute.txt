@@ -1,0 +1,15 @@
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex27_array\bin\Debug\net6.0\Ex27_array.exe
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex27_array\bin\Debug\net6.0\Ex27_array.deps.json
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex27_array\bin\Debug\net6.0\Ex27_array.runtimeconfig.json
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex27_array\bin\Debug\net6.0\Ex27_array.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex27_array\bin\Debug\net6.0\Ex27_array.pdb
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex27_array\obj\Debug\net6.0\Ex27_array.csproj.AssemblyReference.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex27_array\obj\Debug\net6.0\Ex27_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex27_array\obj\Debug\net6.0\Ex27_array.AssemblyInfoInputs.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex27_array\obj\Debug\net6.0\Ex27_array.AssemblyInfo.cs
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex27_array\obj\Debug\net6.0\Ex27_array.csproj.CoreCompileInputs.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex27_array\obj\Debug\net6.0\Ex27_array.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex27_array\obj\Debug\net6.0\refint\Ex27_array.dll
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex27_array\obj\Debug\net6.0\Ex27_array.pdb
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex27_array\obj\Debug\net6.0\Ex27_array.genruntimeconfig.cache
+C:\Users\not-a\OneDrive\Рабочий стол\GB\Seminars\something\Ex27_array\obj\Debug\net6.0\ref\Ex27_array.dll

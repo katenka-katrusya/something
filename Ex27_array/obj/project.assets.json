@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\not-a\\OneDrive\\Рабочий стол\\GB\\Seminars\\something\\new\\new.csproj",
-      "projectName": "new",
-      "projectPath": "C:\\Users\\not-a\\OneDrive\\Рабочий стол\\GB\\Seminars\\something\\new\\new.csproj",
+      "projectUniqueName": "C:\\Users\\not-a\\OneDrive\\Рабочий стол\\GB\\Seminars\\something\\Ex27_array\\Ex27_array.csproj",
+      "projectName": "Ex27_array",
+      "projectPath": "C:\\Users\\not-a\\OneDrive\\Рабочий стол\\GB\\Seminars\\something\\Ex27_array\\Ex27_array.csproj",
       "packagesPath": "C:\\Users\\not-a\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\not-a\\OneDrive\\Рабочий стол\\GB\\Seminars\\something\\new\\obj\\",
+      "outputPath": "C:\\Users\\not-a\\OneDrive\\Рабочий стол\\GB\\Seminars\\something\\Ex27_array\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\not-a\\AppData\\Roaming\\NuGet\\NuGet.Config"
